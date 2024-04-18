@@ -1,0 +1,15 @@
+C:\Users\cleyt\OneDrive\Área de Trabalho\POOPilares\Abstracao\bin\Debug\net8.0\POOPilares.exe
+C:\Users\cleyt\OneDrive\Área de Trabalho\POOPilares\Abstracao\bin\Debug\net8.0\POOPilares.deps.json
+C:\Users\cleyt\OneDrive\Área de Trabalho\POOPilares\Abstracao\bin\Debug\net8.0\POOPilares.runtimeconfig.json
+C:\Users\cleyt\OneDrive\Área de Trabalho\POOPilares\Abstracao\bin\Debug\net8.0\POOPilares.dll
+C:\Users\cleyt\OneDrive\Área de Trabalho\POOPilares\Abstracao\bin\Debug\net8.0\POOPilares.pdb
+C:\Users\cleyt\OneDrive\Área de Trabalho\POOPilares\Abstracao\obj\Debug\net8.0\POOPilares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cleyt\OneDrive\Área de Trabalho\POOPilares\Abstracao\obj\Debug\net8.0\POOPilares.AssemblyInfoInputs.cache
+C:\Users\cleyt\OneDrive\Área de Trabalho\POOPilares\Abstracao\obj\Debug\net8.0\POOPilares.AssemblyInfo.cs
+C:\Users\cleyt\OneDrive\Área de Trabalho\POOPilares\Abstracao\obj\Debug\net8.0\POOPilares.csproj.CoreCompileInputs.cache
+C:\Users\cleyt\OneDrive\Área de Trabalho\POOPilares\Abstracao\obj\Debug\net8.0\POOPilares.sourcelink.json
+C:\Users\cleyt\OneDrive\Área de Trabalho\POOPilares\Abstracao\obj\Debug\net8.0\POOPilares.dll
+C:\Users\cleyt\OneDrive\Área de Trabalho\POOPilares\Abstracao\obj\Debug\net8.0\refint\POOPilares.dll
+C:\Users\cleyt\OneDrive\Área de Trabalho\POOPilares\Abstracao\obj\Debug\net8.0\POOPilares.pdb
+C:\Users\cleyt\OneDrive\Área de Trabalho\POOPilares\Abstracao\obj\Debug\net8.0\POOPilares.genruntimeconfig.cache
+C:\Users\cleyt\OneDrive\Área de Trabalho\POOPilares\Abstracao\obj\Debug\net8.0\ref\POOPilares.dll
