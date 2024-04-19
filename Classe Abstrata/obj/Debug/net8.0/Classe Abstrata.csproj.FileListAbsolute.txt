@@ -1,0 +1,15 @@
+C:\Users\cleyt\OneDrive\Área de Trabalho\POO\Classe Abstrata\bin\Debug\net8.0\Classe Abstrata.exe
+C:\Users\cleyt\OneDrive\Área de Trabalho\POO\Classe Abstrata\bin\Debug\net8.0\Classe Abstrata.deps.json
+C:\Users\cleyt\OneDrive\Área de Trabalho\POO\Classe Abstrata\bin\Debug\net8.0\Classe Abstrata.runtimeconfig.json
+C:\Users\cleyt\OneDrive\Área de Trabalho\POO\Classe Abstrata\bin\Debug\net8.0\Classe Abstrata.dll
+C:\Users\cleyt\OneDrive\Área de Trabalho\POO\Classe Abstrata\bin\Debug\net8.0\Classe Abstrata.pdb
+C:\Users\cleyt\OneDrive\Área de Trabalho\POO\Classe Abstrata\obj\Debug\net8.0\Classe Abstrata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cleyt\OneDrive\Área de Trabalho\POO\Classe Abstrata\obj\Debug\net8.0\Classe Abstrata.AssemblyInfoInputs.cache
+C:\Users\cleyt\OneDrive\Área de Trabalho\POO\Classe Abstrata\obj\Debug\net8.0\Classe Abstrata.AssemblyInfo.cs
+C:\Users\cleyt\OneDrive\Área de Trabalho\POO\Classe Abstrata\obj\Debug\net8.0\Classe Abstrata.csproj.CoreCompileInputs.cache
+C:\Users\cleyt\OneDrive\Área de Trabalho\POO\Classe Abstrata\obj\Debug\net8.0\Classe Abstrata.sourcelink.json
+C:\Users\cleyt\OneDrive\Área de Trabalho\POO\Classe Abstrata\obj\Debug\net8.0\Classe Abstrata.dll
+C:\Users\cleyt\OneDrive\Área de Trabalho\POO\Classe Abstrata\obj\Debug\net8.0\refint\Classe Abstrata.dll
+C:\Users\cleyt\OneDrive\Área de Trabalho\POO\Classe Abstrata\obj\Debug\net8.0\Classe Abstrata.pdb
+C:\Users\cleyt\OneDrive\Área de Trabalho\POO\Classe Abstrata\obj\Debug\net8.0\Classe Abstrata.genruntimeconfig.cache
+C:\Users\cleyt\OneDrive\Área de Trabalho\POO\Classe Abstrata\obj\Debug\net8.0\ref\Classe Abstrata.dll
